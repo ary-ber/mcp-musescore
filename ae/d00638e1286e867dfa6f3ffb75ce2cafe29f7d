@@ -1,0 +1,28 @@
+src/tools/navigation.py
+  s_cb33c68fd986c4::t_5f98fb0f4fc235 78-82
+docs/tools.md
+  s_cb33c68fd986c4::t_5a8f94242e2b1b 17,21
+docs/troubleshooting.md
+  s_cb33c68fd986c4::t_441653c7edd1b0 18
+musescore-mcp-websocket.qml
+  s_cb33c68fd986c4::t_ad023982e5fc49 541-555,559-562,564-566
+  s_cb33c68fd986c4::t_eb31606926362a 763,765,767-774,776-778
+tests/test_plugin_headless.py
+  s_cb33c68fd986c4::t_377f393ecea580 63-75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aed00638e1286e867dfa6f3ffb75ce2cafe29f7d",
+  "prompts": {},
+  "sessions": {
+    "s_cb33c68fd986c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c4add061-70ab-45c5-b9e6-e85020b02e6a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Ary Berberian <ary.berberian@gmail.com>"
+    }
+  }
+}
