@@ -1,0 +1,35 @@
+skills/mcp-musescore/references/tools.md
+  s_cb33c68fd986c4::t_b1e29336db0a40 44
+src/tools/notes_measures.py
+  s_cb33c68fd986c4::t_6d74090ab96e69 59-64,68
+tests/test_integration.py
+  s_cb33c68fd986c4::t_35aebc2a65454e 64-77
+tests/test_plugin_headless.py
+  s_cb33c68fd986c4::t_c73a06c1efc205 63-77
+musescore-mcp-websocket.qml
+  s_cb33c68fd986c4::t_90ebe3afa75138 988-993,998,1001-1004,1006,1010,1012-1013,1016,1018-1038,1042
+  s_cb33c68fd986c4::t_d82071c48f3e7e 1062,1065-1067,1070
+  s_cb33c68fd986c4::t_58483e9d5d2933 368,372-373
+tests/mock_musescore.py
+  s_cb33c68fd986c4::t_03ab8ef2d85c42 38-40
+  s_cb33c68fd986c4::t_75484b0dcf8d6a 405
+  s_cb33c68fd986c4::t_a1c63da9900346 368-369,375,377-393,395-396
+docs/tools.md
+  s_cb33c68fd986c4::t_6139db216798bb 35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c7cb394c9abaf8d1da7623f62bd0ea3232ea6187",
+  "prompts": {},
+  "sessions": {
+    "s_cb33c68fd986c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c4add061-70ab-45c5-b9e6-e85020b02e6a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Ary Berberian <ary.berberian@gmail.com>"
+    }
+  }
+}
